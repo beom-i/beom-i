@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 
 - 개발 경험
   1) 창업동아리 CareGiver 프론트엔드 팀원 : 23.4 ~ 23.6 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
@@ -20,7 +20,7 @@
 - 😄 I'm interesting : 창업, 웹/앱 개발
 - 📫 How to reach me: lybgreen77@naver.com
 
-<!--
+
 **beom-i/beom-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
